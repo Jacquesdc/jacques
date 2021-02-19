@@ -28,7 +28,7 @@ const appRoutes: Routes = [
   },
 
   {
-    path: "citi_overview",
+    path: "citie_overview",
     loadChildren: () =>
       import("./crisis-center/crisis-center.module").then(
         m => m.CrisisCenterModule

@@ -7,7 +7,10 @@
 
 ## Description du jeu (exigences fonctionnelles): 
 
-Le jeu est un MMORPG à l'instar de travian. 
+Le jeu est un MMORPG à l'instar de travian.
+
+Il se déroule à l'époque médiévale. 
+
 Il est constitué de joueurs possédant des villes.
 Chacune de ces villes est nécessairement reliée à un héros.
  
@@ -62,7 +65,11 @@ utilité de supprimer de l'url (popup:compose).
 
 ## Game's description (functional requirements)
 
-The game is an MMORPG like travian. It is made up of players owning cities. Each of these cities is necessarily connected to a hero.
+The game is an MMORPG like travian. 
+
+It takes place in medieval times.
+
+It is made up of players owning cities. Each of these cities is necessarily connected to a hero.
 
 Each city allows you to collect resources, used for the construction of buildings, or for unit training.
 

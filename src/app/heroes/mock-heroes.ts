@@ -1,18 +1,17 @@
-import { Hero } from './hero';
+import { Hero } from "./hero";
 
 export const HEROES: Hero[] = [
-  { id: 11, name: 'Dr Nice' },
-  { id: 12, name: 'Narco' },
-  { id: 13, name: 'Bombasto' },
-  { id: 14, name: 'Celeritas' },
-  { id: 15, name: 'Magneta' },
-  { id: 16, name: 'RubberMan' },
-  { id: 17, name: 'Dynama' },
-  { id: 18, name: 'Dr IQ' },
-  { id: 19, name: 'Magma' },
-  { id: 20, name: 'Tornado' }
+  { id: 11, name: "Dr Nice" },
+  { id: 12, name: "id12" },
+  { id: 13, name: "id13" },
+  { id: 14, name: "id14" },
+  { id: 15, name: "id15" },
+  { id: 16, name: "id16" },
+  { id: 17, name: "id17" },
+  { id: 18, name: "id18" },
+  { id: 19, name: "id19" },
+  { id: 20, name: "id20" }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.

@@ -63,18 +63,17 @@ utilité de supprimer de l'url (popup:compose).
 |   Emoji   |   Nom |   level max |   fonction |   Prix (Ressource : 1;2;3;4)   |
 |---    |:-:    |:-:    |:-:    |--:    |
 |   &#x1F600;   |   Bâtiment principal        |   10 |   Permet d'accélerer la construction des autres bâtiments et également passer de village à ville au niveau 10 (et débloquer ainsi de nouveaux bâtiments)  |   10;10;15;5  |
-|   &#x1F602;   |   Bâtiment de ressource 1   |   ```&#x1F602;``` |   ```&#128514;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment de ressource 2   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment de ressource 3   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment de ressource 4   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment de stockage de ressource  |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment de recrutement d'unités basiques   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment de recrutement d'unités spécifiques   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment d'amélioration : Académie.   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment défensif 1 (Mur)      |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment défensif 2 (Douve)      |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-|   &#x1F923;   |   Bâtiment habitation : Maison   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
-
+|   &#x1F600;   |   Bâtiment de ressource 1   |   10 |   Permet la production de ressource de type 1  |   10;10;15;5  |
+|   &#x1F600;   |   Bâtiment de ressource 2   |   10 |   Permet la production de ressource de type 2  |   10;10;15;5  |
+|   &#x1F600;   |   Bâtiment de ressource 3   |   10 |   Permet la production de ressource de type 3  |   10;10;15;5  |
+|   &#x1F600;   |   Bâtiment de ressource 4   |   10 |   Permet la production de ressource de type 4   |
+|   &#x1F923;   |   Bâtiment de stockage de ressource  |   10 |   Permet le stockage des ressource de tous types  |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment de recrutement d'unités basiques   | 10 |  Offre la possibilité de recruter des unités basiques (unités militaires, former des villageois etc ...) |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment de recrutement d'unités spécifiques   |   10 | Octroie le recrutement d'unités plus spécifiques (missionnaires, unités militaires avancées, scribes etc ...)|   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment d'amélioration : Académie.   |  10| Recherches à débloquer afin d'améliorer des capacités ou des compétences de vos unités et/ou bâtiment |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment défensif 1 (Mur)      |   10 | Le mur sert à se défendre contre l'opposant et octroie un bonus défensif |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment défensif 2 (Douve)      | 10 | Les douves servent à se défendre contre l'opposant et octroie un bonus défensif |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment habitation : Maison   |  10 | Permet de loger la population disponible |   10;10;15;5  |
 
 
 #  GAME : (Anglais)

@@ -111,5 +111,4 @@ Translated with www.DeepL.com/Translator (free version)
 
 
 
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/jacques)
+[See project here :] (https://jacques.stackblitz.io/)

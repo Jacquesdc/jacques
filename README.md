@@ -58,6 +58,22 @@ Pour afficher cette messagerie, il suffit de ciquer sur "messagerie", le bouton 
 et pour la retirer il suffit de supprimer dans l'url (popup:compose), il faudrait mettre un bouton "fermer messagerie" qui aurait pour 
 utilité de supprimer de l'url (popup:compose).
 
+### Caractéristiques des bâtiments 
+
+|   Emoji   |   Nom |   Hex |   Dec |   Prix (Ressource : 1;2;3;4)   |
+|---    |:-:    |:-:    |:-:    |--:    |
+|   &#x1F600;   |   Bâtiment principal        |   ```&#x1F600;``` |   ```&#128512;``` |   10;10;15;5  |
+|   &#x1F602;   |   Bâtiment de ressource 1   |   ```&#x1F602;``` |   ```&#128514;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment de ressource 2   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment de ressource 3   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment de ressource 4   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment de stockage de ressource  |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment de recrutement d'unités basiques   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment de recrutement d'unités spécifiques   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment d'amélioration : Académie.   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment défensif 1 (Mur)      |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment défensif 2 (Douve)      |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
+|   &#x1F923;   |   Bâtiment habitation : Maison   |   ```&#x1F923;``` |   ```&#129315;``` |   10;10;15;5  |
 
 
 

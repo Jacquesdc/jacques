@@ -5,6 +5,34 @@
 #  JEU : (Français)
 
 
+## Synopsis
+
+Après la chute de l'empire romain, l'Europe manque de stabilité.
+
+Au fur et à mesure les féodalités apparaissent, il s'agit d'un système central dans lequel l'autorité centrale s'associe avec 
+les seigneurs locaux et ceux-ci avec leur population. 
+
+Dans ce contexte, reprenez le contrôle de votre terre en proie aux attaques des ennemis. 
+
+Rejoignez une alliance, développez votre cité, et combattez ceux qui s'opposent à vous. 
+
+Dans medieval war : une nation parmi  et une féodalité parmis cette nation. 
+
+Chaque féodalité est constitué de village et/ou villes permettant d'aggrandir votre territoire. 
+
+Pour chaque village, et pour chaque ville, on lui associe un héros. 
+
+Ce héros aura pour objectif de mener à développer votre cité. 
+
+Par avance, je présente mes excuses aux historiens car il est possible que subsiste des anachronismes (comme le fait que Clovis soit un 
+héros sélectionnable et potentiellement puisse s'allier ou combattre d'autres héros n'ayant pas vécu à la même époque, néanmoins dans des 
+soucis d'équilibrage les armées de clovis bien que potentiellement plus faible que des armées où la technologie était plus avancée comme 
+avec les arbalétriers seront également plus forte en terme de cohésion par exemple, ce qui pourra entraîner une victoire d'une unité 
+militaire issue de l'armée de CLovis contre un arbalétrier par exemple).
+
+
+
+
 ## Description du jeu (exigences fonctionnelles): 
 
 Le jeu est un MMORPG à l'instar de travian.
@@ -58,6 +86,10 @@ Pour afficher cette messagerie, il suffit de ciquer sur "messagerie", le bouton 
 et pour la retirer il suffit de supprimer dans l'url (popup:compose), il faudrait mettre un bouton "fermer messagerie" qui aurait pour 
 utilité de supprimer de l'url (popup:compose).
 
+
+# Caractéristiques : 
+
+
 ### Caractéristiques des bâtiments 
 
 |   Emoji   |   Nom |   level max |   fonction |   Prix (Ressource : 1;2;3;4)   |
@@ -106,6 +138,24 @@ for utility to delete url (popup:compose).
 
 
 ## Bibliography : 
+
+https://fr.wikipedia.org/wiki/Moyen_%C3%82ge
+
+https://fr.wikipedia.org/wiki/Chronologie_du_Moyen_%C3%82ge
+
+https://www.caminteresse.fr/histoire/les-chevaliers-super-heros-du-moyen-age-11122556/
+
+https://fr.wikipedia.org/wiki/M%C3%A9rovingiens
+
+https://www.histoire-pour-tous.fr/chronologies/3302-chronologie-des-rois-de-france.html
+
+https://pixabay.com/fr/images/search/cath%C3%A9drales/
+
+https://pixabay.com/fr/images/search/rois%20de%20france/
+
+https://pixabay.com/fr/images/search/eveques/
+
+
 
 Translated with www.DeepL.com/Translator (free version)
 

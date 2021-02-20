@@ -1,11 +1,25 @@
-<ul class="crises">
-  <li *ngFor="let crisis of crises$ | async"
-    [class.selected]="crisis.id === selectedId">
-    <a [routerLink]="[crisis.id]">
-      <span class="badge">{{ crisis.id }}</span>{{ crisis.name }}
-    </a>
-  </li>
-</ul>
+<div class="container">
+	<div class="row">
+		<div class="col-sm">
+			<ul class="crises">
+				<li *ngFor="let crisis of crises$ | async" [class.selected]="crisis.id === selectedId">
+					<a [routerLink]="[crisis.id]">
+						<span class="badge">{{ crisis.id }}</span>{{ crisis.name }}
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="col-sm">
+			<div> Ressources : </div> 10;10;10;10
+
+		</div>
+		<div class="col-sm">
+			<div> Unités : </div> 1;1;1;1
+		</div>
+	</div>
+</div>
+
+
 
 <router-outlet></router-outlet>
 

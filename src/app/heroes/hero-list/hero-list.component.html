@@ -1,12 +1,23 @@
-<h2>HEROES</h2>
-<ul class="heroes">
-  <li *ngFor="let hero of heroes$ | async"
-    [class.selected]="hero.id === selectedId">
-    <a [routerLink]="['/hero', hero.id]">
-      <span class="badge">{{ hero.id }}</span>{{ hero.name }}
-    </a>
-  </li>
-</ul>
+<div class="container">
+	<div class="row">
+		<div class="col-sm">
+			<h2>Heroes</h2>
+			<ul class="heroes">
+				<li *ngFor="let hero of heroes$ | async" [class.selected]="hero.id === selectedId">
+					<a [routerLink]="['/hero', hero.id]">
+						<span class="badge">{{ hero.id }}</span>{{ hero.name }}
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="col-sm">
+			<h2>Troops linked for each heroes </h2>
+		</div>
+		<div class="col-sm">
+			<h2>Movements</h2>
+		</div>
+	</div>
+</div>
 
 <button routerLink="/sidekicks">Go to sidekicks</button>
 

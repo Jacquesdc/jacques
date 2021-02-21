@@ -1,27 +1,14 @@
-<header style="padding-bottom:20px; margin-bottom:20px;">
-
-	<div class="navbar navbar-dark bg-dark shadow-sm">
-		<div class="container d-flex justify-content-between">
-
-
-			<a routerLink="/cities_overview" routerLinkActive="active">Cities Overview</a>
-			<a routerLink="/superheroes" routerLinkActive="active"> Troops </a>
-			<a routerLink="/admin" routerLinkActive="active">Admin</a>
-			<a routerLink="/login" routerLinkActive="active">Login</a>
-			<a [routerLink]="[{ outlets: { popup: ['compose'] } }]">Messagerie</a>
-		</div>
+<header style="padding:20px; margin:20px;">
+	<div class="container d-flex justify-content-between">
+		<a routerLink="/cities_overview" routerLinkActive="active">Cities Overview</a>
+		<a routerLink="/superheroes" routerLinkActive="active"> Troops </a>
+		<a routerLink="/admin" routerLinkActive="active">Admin</a>
+		<a routerLink="/login" routerLinkActive="active">Login</a>
+		<a [routerLink]="[{ outlets: { popup: ['compose'] } }]">Messagerie</a>
 	</div>
 </header>
 
-
-
-
-
-
-
 <main role="main">
-
-
 	<section class="jumbotron text-center">
 		<div class="container">
 			<h1 class="jumbotron-heading">Game Medieval</h1>
@@ -37,16 +24,6 @@
 		<router-outlet #routerOutlet="outlet"></router-outlet>
 	</div>
 	<router-outlet name="popup"></router-outlet>
-
-
-
-
-
-
-
-
-
-
 </main>
 
 
